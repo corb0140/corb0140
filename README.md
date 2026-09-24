@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-corbin-18771b9b/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kolizak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markpc1608@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-corbin-18771b9b/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kolizak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markpc1608@gmail.com) 
 
 # 💻 Tech Stack:
 ### Languages
